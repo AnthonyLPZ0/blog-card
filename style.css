@@ -24,6 +24,7 @@ body{
    padding: 20px;
    border: 1px solid black;
    border-radius: 20px;
+   box-shadow: 6px 6px 1px black;
 }
 
 .card-img{
